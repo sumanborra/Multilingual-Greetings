@@ -1,0 +1,15 @@
+.buttn {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  font-family: 'Roboto';
+  font-size: 18px;
+  height: 40px;
+  width: 100px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+.active-color {
+  background-color: #db1c48;
+  color: #ffffff;
+}
